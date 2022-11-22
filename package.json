@@ -1,0 +1,14 @@
+{
+"name":"com.akincem.testpackage",
+"version":"0.0.1-preview.1",
+"displayName": "Test package",
+"description": "this is an example package",
+"unity": "2021.3",
+"dependencies": {
+    "com.unity.textmeshpro":"3.0.0"
+},
+"author": {
+    "name": "Akin Cem Tutal"
+}
+
+}
